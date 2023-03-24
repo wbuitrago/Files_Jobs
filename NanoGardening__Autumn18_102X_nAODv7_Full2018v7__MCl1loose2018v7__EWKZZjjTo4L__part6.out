@@ -1,0 +1,71 @@
+subject   : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wbuitrag/CN=865514/CN=Wilson David Buitrago Ceballos/CN=1491570338
+issuer    : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wbuitrag/CN=865514/CN=Wilson David Buitrago Ceballos
+identity  : /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wbuitrag/CN=865514/CN=Wilson David Buitrago Ceballos
+type      : RFC3820 compliant impersonation proxy
+strength  : 2048
+path      : /afs/cern.ch/user/w/wbuitrag/.proxy
+timeleft  : 140:47:06
+key usage : Digital Signature, Key Encipherment
+/pool/condor/dir_26872/tmp
+Jet type= AK8PFPuppi JEC= Regrouped_Autumn18_V19_MC 	 JER= Autumn18_V7_MC
+LeptonMaker: Lepton_pt[0] > 10
+LeptonSel: keeping only Loose lepton(s), and saving only events with at least 1 Loose lepton(s)
+Will write selected trees to .
+Loading jet energy scale (JES) uncertainties from file '/pool/condor/dir_26872/tmp/tmp3ii9gD/Regrouped_Autumn18_V19_MC_Uncertainty_AK8PFPuppi.txt'
+Loading jet energy resolutions (JER) from file '/pool/condor/dir_26872/tmp/tmpfmRggR/Autumn18_V7_MC_PtResolution_AK8PFPuppi.txt'
+Loading JER scale factors and uncertainties from file '/pool/condor/dir_26872/tmp/tmpfmRggR/Autumn18_V7_MC_SF_AK8PFPuppi.txt'
+Pre-select 239964 entries out of 240000 (99.98%)
+LeptonSel: ElecWP -> Lepton_isTightElectron_mvaFall17V1Iso_WP90_SS
+LeptonSel: ElecWP -> Lepton_isTightElectron_mvaFall17V1Iso_WP90_tthmva_70
+LeptonSel: ElecWP -> Lepton_isTightElectron_mvaFall17V1Iso_WP90
+LeptonSel: ElecWP -> Lepton_isTightElectron_mvaFall17V1Iso_WP90_SS_tthmva_70
+LeptonSel: MuWP -> Lepton_isTightMuon_cut_Tight_HWWW_tthmva_80
+LeptonSel: MuWP -> Lepton_isTightMuon_cut_Tight_HWWW
+Processed    10000/  239964 entries,  4.17% (elapsed time   179.3s, curr speed    0.056 kHz, avg speed    0.056 kHz), accepted     9952/   10001 events (99.51%)
+Processed    20000/  239964 entries,  8.33% (elapsed time   371.4s, curr speed    0.052 kHz, avg speed    0.054 kHz), accepted    19912/   20001 events (99.56%)
+Processed    30000/  239964 entries, 12.50% (elapsed time   557.4s, curr speed    0.054 kHz, avg speed    0.054 kHz), accepted    29856/   30001 events (99.52%)
+WARNING: jet m = -0.0 !!
+Processed    40000/  239964 entries, 16.67% (elapsed time   748.2s, curr speed    0.052 kHz, avg speed    0.053 kHz), accepted    39808/   40001 events (99.52%)
+Processed    50000/  239964 entries, 20.84% (elapsed time   936.9s, curr speed    0.053 kHz, avg speed    0.053 kHz), accepted    49766/   50001 events (99.53%)
+Processed    60000/  239964 entries, 25.00% (elapsed time  1123.3s, curr speed    0.054 kHz, avg speed    0.053 kHz), accepted    59722/   60001 events (99.54%)
+WARNING: jet m = -0.0 !!
+WARNING: jet m = -0.0 !!
+Processed    70000/  239964 entries, 29.17% (elapsed time  1310.2s, curr speed    0.053 kHz, avg speed    0.053 kHz), accepted    69665/   70001 events (99.52%)
+Processed    80000/  239964 entries, 33.34% (elapsed time  1495.9s, curr speed    0.054 kHz, avg speed    0.053 kHz), accepted    79607/   80001 events (99.51%)
+Processed    90000/  239964 entries, 37.51% (elapsed time  1684.5s, curr speed    0.053 kHz, avg speed    0.053 kHz), accepted    89572/   90001 events (99.52%)
+WARNING: jet m = -0.0 !!
+Processed   100000/  239964 entries, 41.67% (elapsed time  1864.2s, curr speed    0.056 kHz, avg speed    0.054 kHz), accepted    99509/  100001 events (99.51%)
+Processed   110000/  239964 entries, 45.84% (elapsed time  2046.4s, curr speed    0.055 kHz, avg speed    0.054 kHz), accepted   109456/  110001 events (99.50%)
+Processed   120000/  239964 entries, 50.01% (elapsed time  2237.1s, curr speed    0.052 kHz, avg speed    0.054 kHz), accepted   119406/  120001 events (99.50%)
+Processed   130000/  239964 entries, 54.17% (elapsed time  2430.9s, curr speed    0.052 kHz, avg speed    0.053 kHz), accepted   129350/  130001 events (99.50%)
+Processed   140000/  239964 entries, 58.34% (elapsed time  2615.1s, curr speed    0.054 kHz, avg speed    0.054 kHz), accepted   139302/  140001 events (99.50%)
+WARNING: jet m = 0.0 !!
+Processed   150000/  239964 entries, 62.51% (elapsed time  2804.3s, curr speed    0.053 kHz, avg speed    0.053 kHz), accepted   149253/  150001 events (99.50%)
+WARNING: jet m = -0.0 !!
+Processed   160000/  239964 entries, 66.68% (elapsed time  2995.8s, curr speed    0.052 kHz, avg speed    0.053 kHz), accepted   159203/  160001 events (99.50%)
+Processed   170000/  239964 entries, 70.84% (elapsed time  3182.8s, curr speed    0.053 kHz, avg speed    0.053 kHz), accepted   169155/  170001 events (99.50%)
+WARNING: jet m = -0.0 !!
+Processed   180000/  239964 entries, 75.01% (elapsed time  3368.4s, curr speed    0.054 kHz, avg speed  Adding file ./D40DA17D-9E20-184F-8CA7-4A58EEA25939_input_Skim.root
+Merging Events
+Merging Runs
+Merging ParameterSets
+Merging LuminosityBlocks
+Merging MetaData
+Merging tag
+  0.053 kHz), accepted   179100/  180001 events (99.50%)
+Processed   190000/  239964 entries, 79.18% (elapsed time  3547.3s, curr speed    0.056 kHz, avg speed    0.054 kHz), accepted   189050/  190001 events (99.50%)
+Processed   200000/  239964 entries, 83.35% (elapsed time  3739.0s, curr speed    0.052 kHz, avg speed    0.053 kHz), accepted   198999/  200001 events (99.50%)
+WARNING: jet m = 0.0 !!
+Processed   210000/  239964 entries, 87.51% (elapsed time  3930.8s, curr speed    0.052 kHz, avg speed    0.053 kHz), accepted   208957/  210001 events (99.50%)
+Processed   220000/  239964 entries, 91.68% (elapsed time  4124.5s, curr speed    0.052 kHz, avg speed    0.053 kHz), accepted   218913/  220001 events (99.51%)
+Processed   230000/  239964 entries, 95.85% (elapsed time  4314.7s, curr speed    0.053 kHz, avg speed    0.053 kHz), accepted   228867/  230001 events (99.51%)
+WARNING: jet m = -0.0 !!
+Processed 239964 preselected entries from D40DA17D-9E20-184F-8CA7-4A58EEA25939_input.root (240000 entries). Finally selected 238783 entries
+Done ./D40DA17D-9E20-184F-8CA7-4A58EEA25939_input_Skim.root
+Total time 5509.7 sec. to process 240000 events. Rate = 43.6 Hz.
+total 1973400
+-rw-r--r--. 1 wbuitrag zh 1344774329 Mar 23 17:04 D40DA17D-9E20-184F-8CA7-4A58EEA25939_Skim.root
+-rwxr-xr-x. 1 wbuitrag zh       3579 Mar 23 15:32 haddnano.py
+drwxr-xr-x. 2 wbuitrag zh       4096 Mar 23 15:32 hsperfdata_wbuitrag
+drwxr-xr-x. 3 wbuitrag zh       4096 Mar 23 15:32 mjf-wbuitrag
+-rw-r--r--. 1 wbuitrag zh  675962741 Mar 23 17:05 nanoLatino_EWKZZjjTo4L__part6__MCl1loose2018v7.root
